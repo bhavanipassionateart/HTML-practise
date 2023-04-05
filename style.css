@@ -23,3 +23,10 @@ p{
     font-size: 25px;
     color: rgb(243, 10, 57);
 }
+a{
+    color:aqua;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
